@@ -1,0 +1,13 @@
+body {
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Overlay para mejorar legibilidad */
+.overlay {
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 2rem;
+    border-radius: 10px;
+}
